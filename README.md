@@ -16,5 +16,22 @@ I have included some of my favorite recipes that I am always asked for. This hom
 ![Screenshot of the about the chef](About.png)
 >This is a screenshot of the "About the Chef" page. One of my favorite movies is Ratatouille, so I created a persona Remy as the chef and creater of these recipes. 
 
+## Install and Run 
+Build project and start the recipe website on a web browser 
+
+1. Clone this GitHub repository 
+```
+git clone https://github.com/oliviaadams1/recipe-website
+```
+2. Open File Explorer 
+
+3. Open the Desktop Folder
+
+4. Open the Homepage folder 
+
+5. Double click the index HTML file and select your browser of choice
+
+
+
 
 This was a mock application so I did not take the phots myself. I incuded imbedded links to the websites that the images came from. No Copyright Infringement is Intended. 
